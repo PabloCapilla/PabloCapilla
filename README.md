@@ -5,9 +5,9 @@ I combine empirical studies in the field and lab, with research synthesis using 
 
 In my GitHub you will find R packages and repositories to document my research.
 
-You can also find me on Twitter [@p_capi](https://twitter.com/p_capi), 
+You can also find me on [Bluesky](https://bsky.app/profile/pcapi.bsky.social), 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=5JMTO-kAAAAJ&view_op=list_works&sortby=pubdate) and 
-[ResearchGate](https://www.researchgate.net/profile/Pablo-Capilla-Lasheras)
+[ResearchGate](https://www.researchgate.net/profile/Pablo-Capilla-Lasheras).
 
 <!---
 PabloCapilla/PabloCapilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
